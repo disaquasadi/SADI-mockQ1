@@ -1,5 +1,13 @@
-Just change them all
-dont let class clash.
+0. Change POM dependecy
+
+
+1. Just change them all: change class name, attribute, everything according to exam dont let class clash.
+
+2. Change Database Credential in AppConfig
+
+3. Make sure to cite bean
+
+4. Make sure not missing any annotatitions
 
 
 WAY TO RUN MAIN.
